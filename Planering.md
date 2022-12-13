@@ -73,6 +73,9 @@ Medans Starstable har sanitation där specialtecknet byts ut vilket leder till a
 Skapat en Kalkylark för att försöka hålla det tydligare på vad som jag har kollat och icke men även vad resultaten har varit. Har även börjat leta vidare på mina sidor efter något sätt att få XSS attackera att kanske funka på någon riktigt sida.
 
 # Vecka 50
+
+## Tisdag
+Idag så har jag fixat detta fantastiska MD och jobbat vidare på att försöka knäcka de fantastiska sidorna jag har valt. Börjat få ett resultat som borde vara redo efter jul vilket är såklart målet jag siktar emot. 
  
  
  
