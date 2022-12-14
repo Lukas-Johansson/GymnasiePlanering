@@ -53,7 +53,7 @@ Så med hjälp av ett par snälla medarbetare så har jag kommit fram till ett p
 * [Schoolsoft](https://sms.schoolsoft.se/nti/jsp/student/right_student_startpage.jsp)
 * [Wasakredit](https://www.wasakredit.se/privat/)
 * [Starstable](https://www.starstable.com/se)
-* [TimN's sida](https://sneakers.timpan.ninja/)
+* [TimN's sida](https://flipflops.timpan.ninja/)
 * [Uruguays president/officella sida?](https://www.gub.uy/presidencia/)
  
 Efter att ha kollat igenom Schoolsoft en stund så hittade jag en JSESSIONID som är ens personliga nyckel i din session vilket betyder att om någon annan får tag på din JSESSIONID så kan man logga in på ens konto utan att behöva kunna deras användarnamn eller lösenord.
@@ -76,6 +76,26 @@ Skapat en Kalkylark för att försöka hålla det tydligare på vad som jag har 
 
 ## Tisdag
 Idag så har jag fixat detta fantastiska MD och jobbat vidare på att försöka knäcka de fantastiska sidorna jag har valt. Börjat få ett resultat som borde vara redo efter jul vilket är såklart målet jag siktar emot. 
+
+## Onsdag 
+Har fått resultat ifrån en scanner som kollar igenom koden efter någon icke ytlig XSS risk.
+
+Schoolsoft
+![Screenshot](images/schoolsoft.png)
+
+Starstable
+![Screenshot](images/Starstable.png)
+
+Tim's sida
+![Screenshot](images/Timssida.png)
+
+Urguyask sida
+![Screenshot](images/uruguaysksida.png)
+
+Wasa kredit
+![Screenshot](images/wasakredit.png)
+
+Som vi ser så har tur som det är ingen av sidorna några större risker emot XSS attacker.
  
  
  
