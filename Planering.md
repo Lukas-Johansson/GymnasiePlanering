@@ -78,7 +78,7 @@ Skapat en Kalkylark för att försöka hålla det tydligare på vad som jag har 
 Idag så har jag fixat detta fantastiska MD och jobbat vidare på att försöka knäcka de fantastiska sidorna jag har valt. Börjat få ett resultat som borde vara redo efter jul vilket är såklart målet jag siktar emot. 
 
 ## Onsdag 
-Har fått resultat ifrån en scanner som kollar igenom koden efter någon icke ytlig XSS risk.
+Har fått resultat ifrån en scanner som kollar igenom koden efter någon icke ytlig XSS risker.
 
 Schoolsoft
 ![Screenshot](images/schoolsoft.png)
@@ -95,9 +95,15 @@ Urguyask sida
 Wasa kredit
 ![Screenshot](images/wasakredit.png)
 
-Som vi ser så har tur som det är ingen av sidorna några större risker emot XSS attacker.
+Som vi ser så är det ingen av sidorna som har några risker emot XSS attacker.
  
- 
+## Fredag
+
+Har undersökt sidorna för flera XSS attackerbara sökfält eller liknande har kommit fram till att sidorna har bra skydd vilket så klart är en väldigt positivt sak. Även om resultat blir lite tråkigt med att "Alla sidor hade tillräckligt bra skydd emot XSS". 
+
+# Vecka 51
+
+## Tisdag 
  
  
  
