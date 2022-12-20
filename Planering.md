@@ -105,6 +105,7 @@ Har undersökt sidorna för flera XSS attackerbara sökfält eller liknande har 
 
 ## Tisdag 
  
+Har skrivit PM och börjat planera för torsdagen och alla dess roligheter. 
  
  
  
